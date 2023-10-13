@@ -2576,7 +2576,7 @@ button.alt:active,
     -webkit-transition: -webkit-transform 0.5s ease;
     -ms-transition: -ms-transform 0.5s ease;
     transition: transform 0.5s ease;
-    display: block;
+    display: hidden;
     height: 100%;
     left: 0;
     overflow-y: auto;
