@@ -2021,7 +2021,7 @@ button.alt:active,
 }
 
 #header>.container {
-  padding: 14em 0 7em 0;
+  padding: 8em 0em 0em 0em;
   /*border-bottom: solid 2px #e5e5e5;
   box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px */
   #e5e5e5;
@@ -2200,7 +2200,7 @@ button.alt:active,
   overflow: hidden;
   background: #fff;
   text-align: center;
-  padding: 6em 0;
+  padding: 3em 0;
 }
 
 #features p {
@@ -2226,7 +2226,7 @@ button.alt:active,
   text-transform: uppercase;
   background: url("../../images/banner.jpg");
   background-size: cover;
-  padding: 10em 0;
+  padding: 5em 0;
 }
 
 #banner p {
@@ -2323,7 +2323,7 @@ button.alt:active,
   overflow: hidden;
   border-top: solid 2px #e5e5e5;
   background: #f0f0f0;
-  padding: 6em 0 8em 0;
+  padding: 3em 0 1em 0;
 }
 
 #footer form input[type="text"],
@@ -2351,8 +2351,8 @@ button.alt:active,
 #copyright {
   border-top: solid 2px #e5e5e5;
   text-align: center;
-  margin-top: 6em;
-  padding-top: 4em;
+  margin-top: 1em;
+  padding-top: 1em;
 }
 
 /* XLarge */
@@ -2404,7 +2404,7 @@ button.alt:active,
   /* Header */
 
   #header>.container {
-    padding: 12em 0 5em 0;
+    padding: 8em 0 0em 0;
   }
 
   #header h1 {
@@ -2420,7 +2420,7 @@ button.alt:active,
   /* Features */
 
   #features {
-    padding: 4em 0;
+    padding: 3em 0;
   }
 
   /* Banner */
@@ -2446,14 +2446,14 @@ button.alt:active,
   /* Footer */
 
   #footer {
-    padding: 4em 0;
+    padding: 3em 0;
   }
 
   /* Copyright */
 
   #copyright {
-    margin-top: 2em;
-    padding-top: 2em;
+    margin-top: 1em;
+    padding-top: 1em;
   }
 
 }
@@ -2477,7 +2477,7 @@ button.alt:active,
   /* Header */
 
   #header>.container {
-    padding: 10em 0 7em 0;
+    padding: 8em 0 0em 0;
   }
 
   /* Nav */
@@ -2751,7 +2751,7 @@ button.alt:active,
   /* Header */
 
   #header>.container {
-    padding: 6em 0 4em 0;
+    padding: 6em 0 0em 0;
   }
 
   #header h1 {
@@ -2768,7 +2768,7 @@ button.alt:active,
   /* Banner */
 
   #banner {
-    padding: 5em 0;
+    padding: 2em 0;
   }
 
   #banner>.container {
@@ -2823,7 +2823,7 @@ button.alt:active,
   /* Footer */
 
   #footer {
-    padding: 2em 0;
+    padding: 3em 0;
   }
 
   #footer ul.icons {
